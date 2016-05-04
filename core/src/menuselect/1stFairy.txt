@@ -1,0 +1,8 @@
+//Freeze time and/or starts at the level with a print dialogue of what attack to use
+//attacks used are the fan, straight thrust, and leg sweep
+
+system.out.print("I'm a fairy that your hairy teacher harrassed so long ago.")
+system.out.println("Since then things have died down. He wanted something to be passed on")
+system.out.println("It's a simple straight thrust, not that hard kid.")
+
+//do we unlock the attack or give it to them already?

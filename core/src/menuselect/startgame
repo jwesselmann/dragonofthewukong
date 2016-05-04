@@ -1,0 +1,13 @@
+public class startgame {
+
+public static void main (string [] args) {
+System.out.print("Time to make a new legend")
+
+
+System.out.println("Start Game")
+
+// put "Start Game" hyperlinked to a button to start the game
+
+ }
+
+ }
